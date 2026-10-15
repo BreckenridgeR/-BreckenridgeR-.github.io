@@ -18,7 +18,7 @@
 		<li>Walks</li>
 		<li>One Piece</li>
 	</ul>
-<p>Visit my favorite website: <a href="https://letterboxd.com/">Example Website</a></p>
+<p>Visit my favorite website: <a href="https://letterboxd.com/">Letterboxd</a></p>
 
 </body>
 
